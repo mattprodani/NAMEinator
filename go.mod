@@ -1,4 +1,4 @@
-module NAMEinator
+module github.com/mattprodani/NAMEinator
 
 go 1.16
 
